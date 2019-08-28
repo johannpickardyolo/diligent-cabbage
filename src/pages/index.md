@@ -4,6 +4,7 @@ sections:
   - actions:
       - label: Learn More
         url: /features
+      - label: x
     component: HeroBlock
     content: This can be a place we can write things.
     image: images/hero.png
